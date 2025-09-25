@@ -74,4 +74,8 @@
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
 
+<p align="center">
+  <img src="https://github.com/ajmayen27/ajmayen27/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 ---
