@@ -22,7 +22,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: **[DevDeploy Project](https://github.com/reshadMajumder/devDeploy)**
+- 🔭 Currently working on: **[DevDeploy Project](https://github.com/Ajmayen27/devDeploy.git)**
 - 🌱 Learning: **Microservices, Software Architecture**
 - 👯 Looking to collaborate on: **Spring Boot, ML, Data Analysis Projects**
 - 🤝 Open to help with: **Java Spring Boot & Machine Learning**
