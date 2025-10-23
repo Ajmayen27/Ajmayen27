@@ -52,13 +52,23 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajmayen27&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmayen27&layout=compact&theme=tokyonight" height="180px"/>
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=ajmayen27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" 
+       height="180px" 
+       alt="Ajmayen's GitHub stats"/>
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmayen27&layout=compact&theme=tokyonight&langs_count=10&hide_border=false&cache_seconds=86400" 
+       height="180px" 
+       alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajmayen27&theme=tokyonight" alt="Streak Stats" height="180px"/>
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ajmayen27&theme=tokyonight&hide_border=false" 
+       height="180px" 
+       alt="GitHub Streak Stats"/>
 </p>
+
 
 ---
 
