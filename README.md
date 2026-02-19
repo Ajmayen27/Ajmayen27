@@ -22,7 +22,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: **[DevDeploy Project](https://github.com/Ajmayen27/devDeploy.git)**
+- 🔭 Currently working on: **[SoftwareGazeOfficePortal(https://github.com/Ajmayen27/Software-Gaze-Office-Portal.git)**
 - 🌱 Learning: **Microservices, Software Architecture**
 - 👯 Looking to collaborate on: **Spring Boot, ML, Data Analysis Projects**
 - 🤝 Open to help with: **Java Spring Boot & Machine Learning**
