@@ -22,7 +22,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: **[YourDepo(https://github.com/Ajmayen27/Your-Depo-.git))**
+- 🔭 Currently working on: **[YourDepo(https://github.com/Ajmayen27/Your-Depo-.git)**
 - 🌱 Learning: **Microservices, Software Architecture**
 - 👯 Looking to collaborate on: **Spring Boot, ML, Data Analysis Projects**
 - 🤝 Open to help with: **Java Spring Boot & Machine Learning**
