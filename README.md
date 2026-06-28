@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#2ecc71">Ajmayen Fayek</span></h1>
-<h3 align="center">Java & Spring Boot Developer · Full-Stack Software Engineering · AI & Data Science Enthusiast </h3>
+<h3 align="center">Java & Spring Boot Developer · Full-Stack Engineer · Software Engineering Undergrad @ DIU</h3>
 
 <!-- Animated Typing -->
 <p align="center">
@@ -76,7 +76,7 @@
        height="180px" 
        alt="Ajmayen's GitHub stats"/>
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmayen27&layout=compact&theme=tokyonight&langs_count=10&hide_border=false&cache_seconds=86400" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmayen27&layout=compact&theme=tokyonight&langs_count=10&hide_border=false&hide=jupyter%20notebook&cache_seconds=86400" 
        height="180px" 
        alt="Top Languages"/>
 </p>
