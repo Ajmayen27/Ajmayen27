@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <span style="color:#2ecc71">Ajmayen Fayek</span></h1>
-<h3 align="center">Java & Spring Boot Developer · Full-Stack Engineer · Software Engineering Undergrad @ DIU</h3>
+<h3 align="center">Java & Spring Boot Developer · Full-Stack Software Engineering · AI & Data Science Enthusiast</h3>
 
 <!-- Animated Typing -->
 <p align="center">
