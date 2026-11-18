@@ -29,14 +29,16 @@
 <tr>
 <td width="58%" valign="top">
 
-I'm a **final-year Software Engineering student** at **Daffodil International University** who enjoys turning messy business problems into clean, scalable systems. My core is **Java & Spring Boot**, and I've expanded into the enterprise world with **Salesforce** and **SAP**.
+I'm a **Trainee Software Engineer at BJIT Ltd**, building enterprise solutions on **Salesforce** and **SAP**, backed by a strong foundation in **Java & Spring Boot**. I turn messy business processes into **clean, secure and scalable systems**, from the database all the way to the UI.
 
-- 💼 **Enterprise Solution Trainee** @ **BJIT Ltd**
-- 🎓 **BSc in Software Engineering** · CGPA **3.70 / 4.00** · Graduating **May 2026**
-- 🔭 Building **[Smart Depot](https://github.com/Ajmayen27/Your-Depo-)** — full-stack depot & inventory management
-- ☁️ Expanding into **Salesforce** CRM development & **SAP** enterprise solutions
-- 🌱 Learning **Microservices & Software Architecture**
-- ✍️ Writing about backend deployment & DevOps on **[Medium](https://medium.com/@fayek22205341186)**
+**✨ Highlights**
+
+- ☁️ **Shipped an end-to-end Salesforce platform:** **[Helios Equipment Services](https://github.com/ajmayenbjit1626/Ajmayen_30277-HES-Salesforce-Final-Project)** covers sales, service and a built-in **Agentforce AI agent**, from lead intake to completed field-service jobs
+- 🔷 **Enterprise ERP exposure:** hands-on with **SAP ABAP, S/4HANA & ECC**
+- 🏗️ **5+ full-stack systems built** with **Spring Boot & React**: HR & payroll, real-time support desks, inventory and deployment automation
+- 🔐 **Security-first backend design:** JWT auth, role-based access control and real-time **WebSocket** communication
+- 🐳 **Delivery mindset:** Dockerized apps, an internal deployment portal (**DevDeploy**) and DevOps write-ups on **[Medium](https://medium.com/@fayek22205341186)**
+- 🤖 **Next frontier:** **LLMs, RAG & Agentic AI**, plus Kubernetes and CI/CD
 - ⚡ I love breaking complex backend concepts into simple ideas
 
 </td>
@@ -45,17 +47,17 @@ I'm a **final-year Software Engineering student** at **Daffodil International Un
 ```java
 public class AjmayenFayek {
 
-    String role     = "Software Engineer";
-    String based    = "Dhaka, Bangladesh";
+    String role     = "Trainee Software Engineer";
+    String company  = "BJIT Ltd";
 
     String[] core   = {"Java", "Spring Boot",
                        "REST APIs", "React"};
 
     String[] enterprise = {"Salesforce", "SAP"};
 
-    String[] exploring  = {"Microservices",
-                           "System Design",
-                           "AI & Data Science"};
+    String[] exploring  = {"Agentic AI",
+                           "LLMs & RAG",
+                           "Microservices"};
 
     boolean openToCollaborate() {
         return true; // let's build something!
