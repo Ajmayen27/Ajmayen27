@@ -1,17 +1,19 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2ecc71&height=220&section=header&text=Ajmayen%20Fayek&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Java%20%26%20Spring%20Boot%20%E2%80%A2%20Salesforce%20%E2%80%A2%20SAP&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Ajmayen Fayek"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=2500&pause=4000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=720&height=80&lines=Ajmayen+Fayek" alt="Ajmayen Fayek"/>
 </p>
+
+<h3 align="center">Software Engineer · Java & Spring Boot · Salesforce · SAP</h3>
 
 <p align="center">
   <a href="https://github.com/Ajmayen27">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=2ECC71&center=true&vCenter=true&multiline=false&width=720&lines=Building+scalable+backends+with+Java+%26+Spring+Boot;Crafting+CRM+solutions+on+Salesforce;Exploring+enterprise+systems+with+SAP;Full-Stack+%7C+REST+APIs+%7C+Real-time+WebSockets;SWE+Intern+%40+Software+Gaze+%7C+BSc+SWE+%40+DIU" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=2ECC71&center=true&vCenter=true&multiline=false&width=720&lines=Building+scalable+backends+with+Java+%26+Spring+Boot;Crafting+CRM+solutions+on+Salesforce;Exploring+enterprise+systems+with+SAP;Full-Stack+%7C+REST+APIs+%7C+Real-time+WebSockets;Enterprise+Solution+Trainee+%40+BJIT+Ltd" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajmayen-fayek/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://ajmayen-fayek-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2ECC71?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://ajmayenfayek.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2ECC71?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://medium.com/@fayek22205341186"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="mailto:ajmayenfayek999999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=Ajmayen27&label=Profile%20Views&color=2ecc71&style=flat-square" alt="Profile views"/>
@@ -28,7 +30,7 @@
 
 I'm a **final-year Software Engineering student** at **Daffodil International University** who enjoys turning messy business problems into clean, scalable systems. My core is **Java & Spring Boot**, and I've expanded into the enterprise world with **Salesforce** and **SAP**.
 
-- 💼 **Software Engineer Intern** @ **Software Gaze** — JWT role-based access control & real-time WebSocket chat
+- 💼 **Enterprise Solution Trainee** @ **BJIT Ltd**
 - 🎓 **BSc in Software Engineering** · CGPA **3.70 / 4.00** · Graduating **May 2026**
 - 🔭 Building **[Smart Depot](https://github.com/Ajmayen27/Your-Depo-)** — full-stack depot & inventory management
 - ☁️ Expanding into **Salesforce** CRM development & **SAP** enterprise solutions
@@ -218,9 +220,4 @@ I'm open to working on **Spring Boot APIs**, **full-stack Java/React apps**, **S
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad."</i> — Cory House
-</p>
-
-<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
 </p>
