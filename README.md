@@ -14,6 +14,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ajmayen-fayek/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://ajmayenfayek.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2ECC71?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.salesforce.com/trailblazer/ajmayenfayek"><img src="https://img.shields.io/badge/Trailblazer-00A1E0?style=flat-square" alt="Trailblazer"/></a>
   <a href="https://medium.com/@fayek22205341186"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="mailto:ajmayenfayek999999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=Ajmayen27&label=Profile%20Views&color=2ecc71&style=flat-square" alt="Profile views"/>
@@ -71,35 +72,83 @@ public class AjmayenFayek {
 
 <table align="center">
 <tr>
-  <td align="center" width="140"><b>Languages</b></td>
-  <td><img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Languages"/></td>
-</tr>
-<tr>
-  <td align="center"><b>Backend</b></td>
-  <td><img src="https://skillicons.dev/icons?i=spring,django" alt="Backend"/></td>
-</tr>
-<tr>
-  <td align="center"><b>Frontend</b></td>
-  <td><img src="https://skillicons.dev/icons?i=react,vite,bootstrap" alt="Frontend"/></td>
-</tr>
-<tr>
-  <td align="center"><b>Databases</b></td>
-  <td><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases"/></td>
-</tr>
-<tr>
-  <td align="center"><b>Cloud & DevOps</b></td>
-  <td><img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" alt="Cloud and DevOps"/></td>
-</tr>
-<tr>
-  <td align="center"><b>Tools</b></td>
-  <td><img src="https://skillicons.dev/icons?i=idea,vscode,postman" alt="Tools"/></td>
-</tr>
-<tr>
-  <td align="center"><b>Enterprise</b></td>
+  <td align="center" width="150"><b>☁️ Salesforce</b></td>
   <td>
-    <img src="https://img.shields.io/badge/☁%20Salesforce-00A1E0?style=for-the-badge&logoColor=white" height="40" alt="Salesforce"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="40" alt="SAP"/>
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square" alt="Salesforce"/>
+    <img src="https://img.shields.io/badge/Apex-032D60?style=flat-square" alt="Apex"/>
+    <img src="https://img.shields.io/badge/LWC-032D60?style=flat-square" alt="LWC"/>
+    <img src="https://img.shields.io/badge/Flow-032D60?style=flat-square" alt="Flow"/>
+    <img src="https://img.shields.io/badge/SOQL-032D60?style=flat-square" alt="SOQL"/>
+    <img src="https://img.shields.io/badge/Agentforce-032D60?style=flat-square" alt="Agentforce"/>
+    <img src="https://img.shields.io/badge/Prompt_Builder-032D60?style=flat-square" alt="Prompt Builder"/>
+    <img src="https://img.shields.io/badge/Experience_Cloud-032D60?style=flat-square" alt="Experience Cloud"/>
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>🔷 SAP</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP"/>
+    <img src="https://img.shields.io/badge/ABAP-0A3D62?style=flat-square&logo=sap&logoColor=white" alt="ABAP"/>
+    <img src="https://img.shields.io/badge/S%2F4HANA-0A3D62?style=flat-square&logo=sap&logoColor=white" alt="S/4HANA"/>
+    <img src="https://img.shields.io/badge/ECC-0A3D62?style=flat-square&logo=sap&logoColor=white" alt="ECC"/>
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>💻 Languages</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=java,python,js,c" alt="Languages"/><br/>
+    <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>⚙️ Backend</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=spring,hibernate" alt="Backend"/><br/>
+    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+    <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="JPA"/>
+    <img src="https://img.shields.io/badge/JDBC-E76F00?style=flat-square&logo=openjdk&logoColor=white" alt="JDBC"/>
+    <img src="https://img.shields.io/badge/REST_APIs-2ECC71?style=flat-square" alt="REST APIs"/>
+    <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square" alt="WebSocket"/>
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>🗄️ Databases</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases"/><br/>
+    <img src="https://img.shields.io/badge/H2-09476B?style=flat-square&logo=h2database&logoColor=white" alt="H2"/>
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>🎨 Frontend</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=react,vite,html,css,bootstrap" alt="Frontend"/><br/>
+    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/>
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>🧰 DevOps & Tools</b></td>
+  <td><img src="https://skillicons.dev/icons?i=git,github,docker,maven,gradle,postman,idea,vscode" alt="DevOps and Tools"/></td>
+</tr>
+<tr>
+  <td align="center"><b>🤝 Collaboration</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+    <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=redmine&logoColor=white" alt="Redmine"/>
+    <img src="https://img.shields.io/badge/Agile_%2F_Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white" alt="Agile / Scrum"/>
+    <img src="https://img.shields.io/badge/SDLC-555555?style=flat-square" alt="SDLC"/>
+    <img src="https://img.shields.io/badge/Technical_Documentation-555555?style=flat-square" alt="Technical Documentation"/>
+  </td>
+</tr>
+<tr>
+  <td align="center"><b>🌱 Currently Learning</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+    <img src="https://img.shields.io/badge/LLMs_%26_RAG-7FC8FF?style=flat-square&logo=langchain&logoColor=white" alt="LLMs and RAG"/>
+    <img src="https://img.shields.io/badge/Agentic_AI-8E44AD?style=flat-square" alt="Agentic AI"/>
   </td>
 </tr>
 </table>
@@ -111,13 +160,16 @@ public class AjmayenFayek {
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ [Salesforce Project](https://github.com/Ajmayen27/REPO-NAME)
-<!-- TODO: replace REPO-NAME, title and description with your Salesforce project -->
-Short description of what the app does, who it's for and the key automation or business logic it delivers.
+### ☁️ [Helios Equipment Services](https://github.com/ajmayenbjit1626/Ajmayen_30277-HES-Salesforce-Final-Project)
+End-to-end Salesforce sales, service & AI platform with a built-in Agentforce agent — from lead intake all the way to completed field-service jobs.
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square)
-![Apex](https://img.shields.io/badge/Apex-1798C1?style=flat-square)
+![Apex](https://img.shields.io/badge/Apex-032D60?style=flat-square)
 ![LWC](https://img.shields.io/badge/LWC-032D60?style=flat-square)
+![Flow](https://img.shields.io/badge/Flow-032D60?style=flat-square)
+![SOQL](https://img.shields.io/badge/SOQL-032D60?style=flat-square)
+![Agentforce](https://img.shields.io/badge/Agentforce-032D60?style=flat-square)
+![Prompt Builder](https://img.shields.io/badge/Prompt_Builder-032D60?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
